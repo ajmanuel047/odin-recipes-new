@@ -1,1 +1,2 @@
 # odin-recipes-new
+#this is the second and last time I am starting from scratch. This is the second time doing this project and hopely I will never stop coding so I don't have to go back to what I learnt in the past I because I abandoned coding.
